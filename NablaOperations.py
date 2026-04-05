@@ -1,4 +1,4 @@
-#Th core of this code was taken from Computational Physics - Electromagnetism by Jamie Flux. Comments are all by me and changes from the original code may be present, but credit still goes to Jamie Flux
+#The core of this code was taken from Computational Physics - Electromagnetism by Jamie Flux. Comments are all by me and changes from the original code may be present, but credit still goes to Jamie Flux
 #This is one of my first python projects so the goal is to take a snippet of efficient code from a professional and understand what it means and why it works.
 
 
